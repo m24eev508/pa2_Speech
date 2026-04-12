@@ -1,0 +1,6 @@
+numpy
+librosa
+soundfile
+transformers
+torch
+gtts
